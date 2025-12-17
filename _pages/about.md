@@ -36,21 +36,23 @@ My background is a bit unconventional for a librarian. I have a master's in phys
 
 ## Portfolio
 
-<div class="post-grid">
+## Portfolio
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin-top: 40px;">
 {% for post in site.posts %}
   {% if post.tags contains 'Portfolio' %}
-  <article class="post-item">
+  <article style="border: 1px solid #333; border-radius: 8px; overflow: hidden;">
     {% if post.image %}
-    <a href="{{ post.url }}" class="post-image">
-      <img src="{{ post.image }}" alt="{{ post.title }}">
+    <a href="{{ post.url }}" style="display: block;">
+      <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100%; height: 200px; object-fit: cover;">
     </a>
     {% endif %}
-    <div class="post-content">
-      <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <div style="padding: 20px;">
+      <h3 style="margin-top: 0;"><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p>{{ post.description }}</p>
-      <div class="post-tags">
+      <div style="margin-top: 10px;">
         {% for tag in post.tags %}
-          <span class="tag">{{ tag }}</span>
+          <span style="display: inline-block; padding: 3px 10px; margin-right: 5px; background: #333; border-radius: 3px; font-size: 12px;">{{ tag }}</span>
         {% endfor %}
       </div>
     </div>
