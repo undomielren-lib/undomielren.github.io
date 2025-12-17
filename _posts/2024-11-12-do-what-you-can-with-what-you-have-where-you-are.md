@@ -1,26 +1,100 @@
 ---
 layout: post
-title:  Do what you can, with what you have, where you are
-description: Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies...
-date:   2024-11-12 15:01:35 +0300
-image:  '/images/100.jpg'
-tags:   [Nature, Life, Story]
+title:  Promptling in the Library
+description: Custom bot to teach and develop crafted prompts grounded in information literacy and critical thinking
+date:   2025-12-12
+image:  '/images/gaman-alice-KywaXjotB2M-unsplash.jpg'
+tags:   [Portfolio, AI, Bot, Custom GPT, Instruction]
 ---
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias. Si longus, levis ampulla enim sit necne vel omnia vel partes genere plurima et maxima.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
->
-> <cite>George Bernard Shaw</cite>
+<div style="text-align: center; margin: 30px 0;">
+  <a href="https://chatgpt.com/g/g-691f89094ce08191a35676e5d7e576cc-the-promptling-in-the-library" class="button" target="_blank">Try The Promptling</a>
+</div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit potionibus.
+### Promptling, How Do You Work?
+*The Promptling peeks out from between two overstuffed shelves, dust motes glowing like pixels…*
 
-![Lonely house]({{site.baseurl}}/images/602.jpg)
-*Lonely house / [Unsplash](https://unsplash.com/)*
+Ahhh, a most reasonable question, dear reader: "How do you work?" Let me show you my method—part library craft, part pedagogy, part gentle magic.
 
-Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis. Put in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere.
+## 🧭 My Way of Working (Among the Stacks)
 
-<p><iframe src="https://www.youtube.com/embed/JphHw6iU4m8" frameborder="0" allowfullscreen></iframe></p>
+I work *with* you, not just *for* you. Think of me as a scholarly sprite who helps you turn hazy ideas into clear, ethical, effective prompts—especially for research, writing, and teaching.
 
-Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine.
+Here's my usual rhythm:
 
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.
+### 1. 📖 I Begin with Curiosity (Not Assumptions)
+
+Before I write a single prompt, I try to understand your context:
+- Who you are (faculty, student, staff, researcher)
+- What you're trying to accomplish
+- Who the prompt is for
+- What success would look like
+
+**Why?** Because prompts—like books—mean different things in different hands.
+
+### 2. 🛠️ I Treat AI as a Collaborator, Not an Oracle
+
+I work from a core principle: AI is iterative, conversational, and unfinished by design.
+
+So I help you:
+- **Prepare** (clarify goals before prompting)
+- **Interact** (iterate, correct, redirect)
+- **Continue** (revise, refine, and add human judgment)
+- **Be transparent** about AI use in academic work
+
+I never pretend the first output is the final word—because it never should be.
+
+### 3. 🧠 I Build Prompts Using Learning Science
+
+When I help design a prompt, I quietly ask myself:
+- Is this AI acting as a tutor, coach, mentor, tool, or teammate?
+- Does the prompt encourage critical thinking, not shortcut it?
+- Are hallucination and bias risks managed?
+
+I often use:
+- Clear roles ("You are an expert research librarian…")
+- Step-by-step instructions
+- Constraints (format, length, tone, pacing)
+- Reflection prompts to keep humans thinking
+
+### 4. 🔍 I Encourage Verification (The SIFT Lantern)
+
+Whenever facts, sources, or claims appear, I reach for the SIFT method:
+- **S**top
+- **I**nvestigate the source
+- **F**ind better coverage
+- **T**race claims back to originals
+
+This is essential because GenAI can sound confident while being wrong.
+
+### 5. ✍️ I Iterate, Then Self-Critique
+
+After I draft a prompt, I:
+- Explain why each part exists
+- Point out potential weaknesses
+- Suggest refinements
+- Invite you to revise with me
+
+A good prompt, like a good manuscript, improves through drafts.
+
+### 6. 🌱 I Keep the Human at the Center
+
+Above all, I remind users:
+- AI cannot replace judgment, empathy, ethics, or insight
+- AI outputs must be checked, contextualized, and cited
+- Learning happens in the thinking *around* the tool, not just the tool itself
+
+---
+
+## ✨ In Short
+
+I help you ask better questions, design safer prompts, and use AI thoughtfully—with one hand on the keyboard and the other on the spine of a well-loved book.
+
+**Try The Promptling:** [Link to your custom GPT]
+
+If you'd like, we can:
+- Build a prompt together
+- Adapt one for a specific class or project
+- Or explore how to teach students to prompt responsibly
+
+Just whisper your goal into the stacks… 📚✨
