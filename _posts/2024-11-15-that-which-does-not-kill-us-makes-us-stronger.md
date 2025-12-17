@@ -1,26 +1,25 @@
 ---
 layout: post
-title:  That which does not kill us makes us stronger
-description: Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies...
-date:   2024-11-15 15:01:35 +0300
-image:  '/images/110.jpg'
-tags:   [Business, Work]
+title:  Workshops
+description: University Libraries AI Workshops
+date:   2025-10-31
+image:  '/images/bade-saba-dJfB1Z7pei4-unsplash.jpg'
+tags:   [Portfolio, Workshops, AI]
 ---
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias. Si longus, levis ampulla enim sit necne vel omnia vel partes genere plurima et maxima.
+### Making AI Work For You
+AI is more than just generative AI. In this workshop, you will learn the different forms of AI, explore open-source AI models that can be used for different AI types, and start building a prompt library for research and writing tasks.
+<a href="https://osf.io/acp3x/overview" class="button" target="_blank">View Workshop Materials</a>
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
->
-> <cite>George Bernard Shaw</cite>
+### AI vs AI: How to Maintain Academic Integrity in a World of Artificial Intelligence
+Academic integrity has been challenged in an era of proliferating artificial intelligence, offering easy ways to complete assignments while minimizing cognitive engagement and discouraging acknowledgement of others' work. In this workshop, we will discuss plagiarism and fair use in the era of AI, review instructional design strategies for redesigning assignments to account for AI use, and promote the transparent use of AI.
+<a href="https://osf.io/t92bw/overview" class="button" target="_blank">View Workshop Materials</a>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit potionibus.
+### Programming with LLMs: Using Python and APIs
+This workshop introduces participants to practical methods for using Python scripts to execute tasks and interact with AI models utilizing API keys to interact with LLMs. The session is designed for learners at the late-beginner to intermediate level.
+<a href="https://osf.io/xagwz/overview" class="button" target="_blank">View Workshop Materials</a>
 
-![Start of the day]({{site.baseurl}}/images/600.jpg)
-*Start of the day / [Unsplash](https://unsplash.com/)*
-
-Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis. Put in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere.
-
-<p><iframe src="https://www.youtube.com/embed/WO25XI8tfgI" frameborder="0" allowfullscreen></iframe></p>
-
-Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine.
-
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.
+## Coming Soon
+### SIFT for AI
+### Build-a-Bot: Custom Chabots/GPTs
+### AI for Galleries, Libraries, Archives, and Museums (GLAM)
+### Love Data Week: Concepts of Data-Driven Visualizations 
