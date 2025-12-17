@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Carpentries Instructor
-description: Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies...
+title:  Carpentries Instructor Training
+description: The best "teaching how to teach"
 date:   2025-12-11
 image:  '/images/kai-vu-6WGsQEoBCR0-unsplash.jpg'
 tags:   [Software, Data, Carpentries]
