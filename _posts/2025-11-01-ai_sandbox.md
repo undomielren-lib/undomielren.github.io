@@ -3,7 +3,7 @@ layout: post
 title:  AI Sandbox Pilot Project
 description: User guides and documentation for Digitial Scholarship and Data Services (DSDS)
 date:   2025-11-01
-image:  '/images/10.jpg'
+image:  '/images/liubomyr-vovchak-cTZDQAtBzVw-unsplash.jpg'
 tags:   [Work, Notes]
 featured: true
 ---
