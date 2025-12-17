@@ -5,6 +5,7 @@ description: University Libraries AI Workshops
 date:   2025-10-31
 image:  '/images/bade-saba-dJfB1Z7pei4-unsplash.jpg'
 tags:   [Portfolio, Workshops, AI]
+featured: true
 ---
 ### Making AI Work For You
 AI is more than just generative AI. In this workshop, you will learn the different forms of AI, explore open-source AI models that can be used for different AI types, and start building a prompt library for research and writing tasks.
