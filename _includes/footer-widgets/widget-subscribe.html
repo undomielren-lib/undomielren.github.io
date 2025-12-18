@@ -1,3 +1,4 @@
+{% comment %}
 {% if site.data.settings.mailchimp == 'enable' %}
 <div class="col col-4 col-d-6 col-t-12">
   <div class="widget widget-subscribe">
@@ -19,3 +20,29 @@
   </div>
 </div>
 {% endif %}
+
+{% if site.data.settings.newsletter == 'enable' %}
+<div class="col col-4 col-d-6 col-t-12">
+  <div class="widget widget-subscribe">
+    <div class="widget__head">
+      <h3 class="widget__title">
+        {{ site.data.settings.newsletter-title | default: "Get Updates" }}
+      </h3>
+    </div>
+
+    <p class="subscribe-subtitle">
+      {{ site.data.settings.newsletter-subtitle | default: "Subscribe for new posts and resources." }}
+    </p>
+
+    <div class="subscribe-group">
+      <a class="subscribe-button button button--primary"
+         href="{{ site.data.settings.newsletter-url }}"
+         target="_blank"
+         rel="noopener">
+        {{ site.data.settings.newsletter-button-text | default: "Subscribe" }}
+      </a>
+    </div>
+  </div>
+</div>
+{% endif %}
+{% endcomment %}
