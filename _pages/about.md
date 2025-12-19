@@ -6,7 +6,7 @@ image: '/images/ajai-arif-cKJmuVE-GfY-unsplash.jpg'
 ---
 
 <div style="text-align: center; margin: 40px 0;">
-  <img src="{{site.baseurl}}/images/37.png" alt="Bianca Azartash" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+  <img src="{{site.baseurl}}/images/37.png" alt="Bianca Azartash" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
 </div>
 
 Hi, my name is Bianca. I'm the AI Literacy Project Librarian at the University of Oklahoma Libraries, where I bridge the worlds of technology and accessible education. My work focuses on developing workshops, instructional materials, and resources that help faculty, staff, and students navigate AI tools responsibly. My goal is to promote information and digital literacy and help people make sense of AI without the hype or fear.
@@ -15,9 +15,8 @@ My background is a bit unconventional for a librarian. I have a Master's in Phys
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="{{site.baseurl}}/images/sb.png" style="width: 400px; height: 300px; object-fit: cover;">
-    <img src="{{site.baseurl}}/images/3648.png" style="width: 400px; height: 300px; object-fit: cover;">
-  </div>
+    <img src="{{site.baseurl}}/images/sb.png">
+    <img src="{{site.baseurl}}/images/3648.png">
 </div>
 
 ## Resume
